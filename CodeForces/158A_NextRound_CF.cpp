@@ -52,7 +52,7 @@ int score = nums[k - 1];
 
 for(auto x : nums){
     if(x >= score && x > 0){
-                i++;
+        i++;
     }
 }
 
