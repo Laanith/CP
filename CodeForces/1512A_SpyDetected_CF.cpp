@@ -81,7 +81,7 @@ while(t--){
         if(p.second==1) spy = p.first;
     }
 
-    cout<<  distance(A.begin(), find(A.begin(), A.end(), spy)) +1<<endl;
+    cout<<  distance(A.begin(), find(A.begin(), A.end(), spy)) +1 <<endl;
 
 }
 
